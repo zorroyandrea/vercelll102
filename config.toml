@@ -1,0 +1,4 @@
+baseURL = "https://guitarmusicexchange5.vercel.app"
+languageCode = "en-us"
+title = "Guitar Sheet Music Free"
+theme = "tale-hugo-master"
